@@ -1,6 +1,7 @@
 # Comp-7.8
 
 public interface Lockable {
+	
 	public void setKey(int key);
 
 	public void lock(int key);
